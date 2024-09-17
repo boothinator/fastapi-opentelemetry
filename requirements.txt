@@ -1,0 +1,4 @@
+azure-monitor-opentelemetry==1.6.2
+fastapi==0.114.2
+uvicorn
+gunicorn
